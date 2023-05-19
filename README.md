@@ -5,6 +5,7 @@ My collection of mods for the game "Ostranauts" by Blue Bottle Games.
 ![Alt text](./StarterShipPlusMod/images/ships/Question.png?raw=true "Question")
 
 ## Install instructions
+- Download latest release from https://github.com/jwebmeister/ostranauts_mods/releases/latest
 - Copy all files and folders into your Ostranauts "Mods" folder.
     - Check your game's Options->Files screen to show you where your Mods folder should be.
     - e.g. for my install, "loading_order.json" should be located "Steam\steamapps\common\Ostranauts\Ostranauts_Data\Mods\loading_order.json".
