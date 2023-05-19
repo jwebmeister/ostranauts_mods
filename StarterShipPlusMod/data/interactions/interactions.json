@@ -1,0 +1,102 @@
+
+[
+  {
+    "strName" : "CGEncShipHalberdIntro",
+    "strTitle" : "Halberd.",
+    "strDesc" : "You happen across a wearied middle-aged spacer sitting slumped against an airlock door. Somehow without conscious thought, you find yourself sitting in front of them, their unblinking eyes locked into your own.\n\n\"Take the ship, do what you can\" you hear.\n\nYou realise on the otherside of the airlock is a Testudo Halberd, a single berth pleasure craft designed with the concept \"no expense is too great\". An extremely rare find, and a ship that no-one of sound mind would giveaway for free.",
+    "aInverse"          : [
+      "CGEncShipHalberdCont",
+      "CGEncShipHalberdTake"
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "LootCondsUs"         : null,
+    "LootCTsUs"         : "CGEncShipHalberdIntro"
+  },
+  {
+    "strName" : "CGEncShipHalberdTake",
+    "strTitle" : "Take Ship",
+    "strDesc" : "\"My ship\" you consider the thought, then realise the FOB of the Halberd is already sitting in your hand.\n\nThe spacer has disappeared, and you wonder how long you had been sitting on the floor, and if it was all a dream... but the FOB in-hand and the Halberd on the otherside of the airlock are very real.\n\n\"Take the ship, do what you can... good deal\" you think to yourself.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "aLootItms"         :
+    [
+      "addus,ItmShipbreakerLoadout"
+    ],
+    "LootCTsUs"         : "CGEncShipHalberdTake"
+  },
+  {
+    "strName" : "CGEncShipHalberdCont",
+    "strTitle" : "Continue Career",
+    "strDesc" : "\"Not now\" you think to yourself, the long list of matters that you need tend to by end-of-shift at the front of your mind.\n\nThe spacers eyes slowly lose focus and drift away from your own, breaking the trance-like lock they had with you moments ago.\n\nThey slump further into the ground, and you begin to see them more clearly. A tired spacer desparate for an escape, or end to their struggle. How giving you their ship helps them, you don't know, but you have your own struggles to deal with for now.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "LootCTsUs"         : "CGEncShipHalberdCont"
+  },
+  {
+    "strName" : "CGEncShipMesaIntro",
+    "strTitle" : "Mesa.",
+    "strDesc" : "You happen across a wearied middle-aged spacer sitting slumped against an airlock door. Somehow without conscious thought, you find yourself sitting in front of them, their unblinking eyes locked into your own.\n\n\"Take the ship, do what you can\" you hear.\n\nYou realise on the otherside of the airlock is a Testudo Mesa, an expansive freighter that is more commonly owned by large corporations with deep pockets than any individual. A ship that no-one of sound mind would giveaway for free.",
+    "aInverse"          : [
+      "CGEncShipMesaCont",
+      "CGEncShipMesaTake"
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "LootCondsUs"         : null,
+    "LootCTsUs"         : "CGEncShipMesaIntro"
+  },
+  {
+    "strName" : "CGEncShipMesaTake",
+    "strTitle" : "Take Ship",
+    "strDesc" : "\"My ship\" you consider the thought, then realise the FOB of the Mesa is already sitting in your hand.\n\nThe spacer has disappeared, and you wonder how long you had been sitting on the floor, and if it was all a dream... but the FOB in-hand and the Mesa on the otherside of the airlock are very real.\n\n\"Take the ship, do what you can... good deal\" you think to yourself.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "aLootItms"         :
+    [
+      "addus,ItmShipbreakerLoadout"
+    ],
+    "LootCTsUs"         : "CGEncShipMesaTake"
+  },
+  {
+    "strName" : "CGEncShipMesaCont",
+    "strTitle" : "Continue Career",
+    "strDesc" : "\"Not now\" you think to yourself, the long list of matters that you need tend to by end-of-shift at the front of your mind.\n\nThe spacers eyes slowly lose focus and drift away from your own, breaking the trance-like lock they had with you moments ago.\n\nThey slump further into the ground, and you begin to see them more clearly. A tired spacer desparate for an escape, or end to their struggle. How giving you their ship helps them, you don't know, but you have your own struggles to deal with for now.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "LootCTsUs"         : "CGEncShipMesaCont"
+  },
+  {
+    "strName" : "CGEncShipOcelotIntro",
+    "strTitle" : "Ocelot.",
+    "strDesc" : "You happen across a wearied middle-aged spacer sitting slumped against an airlock door. Somehow without conscious thought, you find yourself sitting in front of them, their unblinking eyes locked into your own.\n\n\"Take the ship, do what you can\" you hear.\n\nYou realise on the otherside of the airlock is a Testudo Ocelot, an expansive freighter that is more commonly owned by large corporations with deep pockets than any individual. A ship that no-one of sound mind would giveaway for free.",
+    "aInverse"          : [
+      "CGEncShipOcelotCont",
+      "CGEncShipOcelotTake"
+    ],
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "LootCondsUs"         : null,
+    "LootCTsUs"         : "CGEncShipOcelotIntro"
+  },
+  {
+    "strName" : "CGEncShipOcelotTake",
+    "strTitle" : "Take Ship",
+    "strDesc" : "\"My ship\" you consider the thought, then realise the FOB of the Ocelot is already sitting in your hand.\n\nThe spacer has disappeared, and you wonder how long you had been sitting on the floor, and if it was all a dream... but the FOB in-hand and the Ocelot on the otherside of the airlock are very real.\n\n\"Take the ship, do what you can... good deal\" you think to yourself.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "aLootItms"         :
+    [
+      "addus,ItmShipbreakerLoadout"
+    ],
+    "LootCTsUs"         : "CGEncShipOcelotTake"
+  },
+  {
+    "strName" : "CGEncShipOcelotCont",
+    "strTitle" : "Continue Career",
+    "strDesc" : "\"Not now\" you think to yourself, the long list of matters that you need tend to by end-of-shift at the front of your mind.\n\nThe spacers eyes slowly lose focus and drift away from your own, breaking the trance-like lock they had with you moments ago.\n\nThey slump further into the ground, and you begin to see them more clearly. A tired spacer desparate for an escape, or end to their struggle. How giving you their ship helps them, you don't know, but you have your own struggles to deal with for now.",
+    "fDuration"         : 0.0,
+    "strThemType"       : "Self",
+    "LootCTsUs"         : "CGEncShipOcelotCont"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "strName" : "CGEncShipbreakerShipEvents",
+    "aCOs"    : [
+      "CGEncShipHalberdIntro=0.25x1|CGEncShipMesaIntro=0.25x1|CGEncShipOcelotIntro=0.25x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "lifeevent"
+  },
+  {
+    "strName" : "CGEncShipHalberdCont",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipHalberdIntro",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipHalberdTake",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipHalberd",
+    "aCOs"    : [
+      "Halberd=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "ship"
+  },
+  {
+    "strName" : "CGEncShipMesaCont",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipMesaIntro",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipMesaTake",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipMesa",
+    "aCOs"    : [
+      "Mesa=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "ship"
+  },
+  {
+    "strName" : "CGEncShipOcelotCont",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipOcelotIntro",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipOcelotTake",
+    "aCOs"    : [
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "trigger"
+  },
+  {
+    "strName" : "CGEncShipOcelot",
+    "aCOs"    : [
+      "Ocelot=1.0x1"
+    ],
+    "aLoots"  : [
+    ],
+    "strType" : "ship"
+  }
+]

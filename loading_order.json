@@ -1,0 +1,14 @@
+[
+  {
+    "strName": "Mod Loading Order",
+    "strNotes" : "To mod Ostranauts, place this loading_order.json file in your Mods/ folder (your game's Options->Files screen will show you where it should be), along with your mod's folder. Your mod folder should match the folder structure in the zip where you found this file. Make sure your mod folder name matches it's entry in aLoadOrder list below. 'core' refers to the base game data, which usually needs to be loaded first unless you know what you're doing.",
+    "aLoadOrder" : [
+      "core",
+      "FreeTraitsMod",
+      "AddedLootMod",
+      "StarterShipPlusMod"
+    ],
+    "aIgnorePatterns" : [
+    ]
+  }
+]

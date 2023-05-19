@@ -1,0 +1,80 @@
+[
+  {
+    "strName" : "CGEncShipHalberdIntro",
+    "strInteraction" : "CGEncShipHalberdIntro",
+    "fCashRewardMin" : 0.0,
+    "fStartATCRange" : 0.0,
+    "strStartATC" : "",
+    "strShipRewards" : ""
+  },
+  {
+    "strName" : "CGEncShipHalberdTake",
+    "strInteraction" : "CGEncShipHalberdTake",
+    "fCashRewardMin" : 0.0,
+    "fShipMortgage" : 0.0,
+    "fShipDmgMax" : 0.6,
+    "fStartATCRange" : 7.0,
+    "strStartATC" : "OKLG",
+    "strShipRewards" : "CGEncShipHalberd"
+  },
+  {
+    "strName" : "CGEncShipHalberdCont",
+    "strInteraction" : "CGEncShipHalberdCont",
+    "fCashRewardMin" : 0.0,
+    "fStartATCRange" : 0.0,
+    "strStartATC" : "",
+    "strShipRewards" : ""
+  },
+  {
+    "strName" : "CGEncShipMesaIntro",
+    "strInteraction" : "CGEncShipMesaIntro",
+    "fCashRewardMin" : 0.0,
+    "fStartATCRange" : 0.0,
+    "strStartATC" : "",
+    "strShipRewards" : ""
+  },
+  {
+    "strName" : "CGEncShipMesaTake",
+    "strInteraction" : "CGEncShipMesaTake",
+    "fCashRewardMin" : 0.0,
+    "fShipMortgage" : 0.0,
+    "fShipDmgMax" : 0.6,
+    "fStartATCRange" : 7.0,
+    "strStartATC" : "OKLG",
+    "strShipRewards" : "CGEncShipMesa"
+  },
+  {
+    "strName" : "CGEncShipMesaCont",
+    "strInteraction" : "CGEncShipMesaCont",
+    "fCashRewardMin" : 0.0,
+    "fStartATCRange" : 0.0,
+    "strStartATC" : "",
+    "strShipRewards" : ""
+  },
+  {
+    "strName" : "CGEncShipOcelotIntro",
+    "strInteraction" : "CGEncShipOcelotIntro",
+    "fCashRewardMin" : 0.0,
+    "fStartATCRange" : 0.0,
+    "strStartATC" : "",
+    "strShipRewards" : ""
+  },
+  {
+    "strName" : "CGEncShipOcelotTake",
+    "strInteraction" : "CGEncShipOcelotTake",
+    "fCashRewardMin" : 0.0,
+    "fShipMortgage" : 0.0,
+    "fShipDmgMax" : 0.6,
+    "fStartATCRange" : 7.0,
+    "strStartATC" : "OKLG",
+    "strShipRewards" : "CGEncShipOcelot"
+  },
+  {
+    "strName" : "CGEncShipOcelotCont",
+    "strInteraction" : "CGEncShipOcelotCont",
+    "fCashRewardMin" : 0.0,
+    "fStartATCRange" : 0.0,
+    "strStartATC" : "",
+    "strShipRewards" : ""
+  }
+]

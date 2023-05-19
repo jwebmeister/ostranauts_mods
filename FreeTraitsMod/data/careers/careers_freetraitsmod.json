@@ -1,0 +1,91 @@
+[
+  {
+    "strName": "Shipbreaker",
+    "strNameFriendly": "Shipbreaker",
+    "strCTPrereqs": "TNotIsImprisoned",
+    "strLootConds": "CGCareerShipbreaker",
+    "nFirst": 2,
+    "nNext": 1,
+    "nHobby": 1,
+    "aSkillsFirst"          : [
+      "IsFit",
+      "IsObservant",
+      "SkillEngCivil",
+      "SkillEngCombat",
+      "SkillEngConstruction",
+      "SkillEngElectronic",
+      "SkillEngMechanical",
+      "SkillEngRobotics",
+      "SkillEngSoftware",
+      "SkillEngSpaceship",
+      "SkillHacking",
+      "SkillOpsEnvSuit",
+      "SkillPersuade",
+      "SkillMeleeArmed",
+      "SkillMeleeUnarmed",
+      "SkillSciencePsychology"
+    ],
+    "aSkillsNext"          : [
+      "IsFit",
+      "IsObservant",
+      "SkillEngElectronic",
+      "SkillEngMechanical",
+      "SkillEngSpaceship",
+      "SkillEtiquetteFolk",
+      "SkillEtiquetteStreet",
+      "SkillHacking",
+      "SkillIntrusion",
+      "SkillOpsComms",
+      "SkillOpsDrone",
+      "SkillOpsEnvSuit",
+      "SkillOpsSensors",
+      "SkillOpsSpaceship",
+      "SkillOpsZeroG",
+      "SkillPersuade",
+      "SkillStealth"
+    ],
+    "aSkillsHobby"          : [
+      "SkillEngElectronic",
+      "SkillEngMechanical",
+      "SkillEngSpaceship",
+      "SkillOpsEnvSuit",
+      "SkillPersuade",
+      "IsStrong",
+      "IsFit",
+      "IsCoordinated",
+      "IsTough",
+      "IsObservant",
+      "SkillEtiquetteFolk",
+      "SkillEtiquetteStreet",
+      "SkillEtiquetteSpacefarer",
+      "SkillIntrusion",
+      "SkillOpsComms",
+      "SkillOpsDrone",
+      "SkillOpsSensors",
+      "SkillOpsSpaceship",
+      "SkillOpsZeroG",
+      "SkillStealth",
+      "SkillGambling",
+      "SkillRangedArchery",
+      "SkillRangedEnergy",
+      "SkillRangedGunpowder",
+      "SkillRangedThrown",
+      "SkillSong",
+      "SkillNavigationSpace",
+      "SkillForgery",
+      "SkillActing",
+      "SkillEtiquetteOligarch",
+      "SkillInstruction",
+      "SkillInterrogate"
+    ],
+    "aEvents"          : [
+      "CGEncShipbreakerEvent"
+    ],
+    "aEventsMoney"          : [
+      "CGEncShipbreakerMoneyEvents"
+    ],
+    "aEventsShip"          : [
+      "CGEncShipbreakerShipEvents"
+    ]
+  }
+]
