@@ -3,8 +3,8 @@
     "strName": "Added Loot Mod",
     "strAuthor": "jwebmeister",
     "strModURL": "https://github.com/jwebmeister",
-    "strGameVersion": "0.11.0.11",
-    "strModVersion": "0.1",
+    "strGameVersion": "0.12.0.4",
+    "strModVersion": "0.2",
     "strNotes": "Adds items to loot table to allow them to be spawned from console, mainly loose floors and walls that were missing."
   }
 ]

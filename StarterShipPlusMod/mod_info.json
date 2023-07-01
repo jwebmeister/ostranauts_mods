@@ -3,8 +3,8 @@
     "strName": "Starter Ship Plus Mod",
     "strAuthor": "jwebmeister",
     "strModURL": "https://github.com/jwebmeister",
-    "strGameVersion": "0.11.0.11",
-    "strModVersion": "0.1",
+    "strGameVersion": "0.12.0.4",
+    "strModVersion": "0.2",
     "strNotes": "Changes the starting selection of ships to high-tier ships, with no mortgage."
   }
 ]
