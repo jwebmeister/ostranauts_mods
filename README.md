@@ -22,14 +22,23 @@ My collection of mods for the game "Ostranauts" by Blue Bottle Games.
 
 ## Version history & features
 ### Added Loot Mod 
-- v0.1
-    - Game version: 0.11.0.11
-    - Adds items to loot table to allow them to be spawned from console, mainly loose floors and walls that were missing.
+- Adds items to loot table to allow them to be spawned from console, mainly loose floors and walls that were missing.
+- Version history
+    - v0.2
+        - Game version: 0.12.0.4
+        - Removed all items from mod except the loose door, other items were added in the games update.
+    - v0.1
+        - Game version: 0.11.0.11
 ### Free Traits Mod 
-- v0.1
-    - Game version: 0.11.0.11
-    - Changes cost of skills and traits so that selection during character creation adds zero years to the player characters age.
+- Changes cost of skills and traits so that selection during character creation adds zero years to the player characters age.
+- Version history
+    - v0.1
+        - Game version: 0.11.0.11 (also tested 0.12.0.4)
 ### Starter Ship Plus Mod 
-- v0.1
-    - Game version: 0.11.0.11
-    - Changes the starting selection of ships to high-tier ships, with no mortgage.
+- Changes the starting selection of ships to high-tier ships, with no mortgage.
+- Version history
+    - v0.2
+        - Game version: 0.12.0.4
+        - Added "bShipOwned" : true, to each ship.
+    - v0.1
+        - Game version: 0.11.0.11
