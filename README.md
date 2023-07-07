@@ -37,7 +37,7 @@ My collection of mods for the game "Ostranauts" by Blue Bottle Games.
         - Game version: 0.11.0.11  (also tested 0.12.0.6)
 ### Starter Ship Plus Mod 
 - Changes the starting selection of ships to high-tier ships, with no mortgage.
-![Alt text](./_docs/StarterShipPlusMod.jpg?raw=true "Free Traits Mod")
+![Alt text](./_docs/StarterShipPlusMod.jpg?raw=true "Starter Ship Plus Mod")
 - Version history
     - v0.3
         - Game version: 0.12.0.6
