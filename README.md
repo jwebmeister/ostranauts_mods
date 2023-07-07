@@ -2,7 +2,7 @@
 
 My collection of mods for the game "Ostranauts" by Blue Bottle Games.
 
-![Alt text](./StarterShipPlusMod/images/ships/Question.png?raw=true "Question")
+![Alt text](./_docs/Question.png?raw=true "Question")
 
 ## Install instructions
 - Download latest release from https://github.com/jwebmeister/ostranauts_mods/releases/latest
@@ -25,20 +25,25 @@ My collection of mods for the game "Ostranauts" by Blue Bottle Games.
 - Adds items to loot table to allow them to be spawned from console, mainly loose floors and walls that were missing.
 - Version history
     - v0.2
-        - Game version: 0.12.0.4
+        - Game version: 0.12.0.4  (also tested 0.12.0.6)
         - Removed all items from mod except the loose door, other items were added in the games update.
     - v0.1
         - Game version: 0.11.0.11
 ### Free Traits Mod 
 - Changes cost of skills and traits so that selection during character creation adds zero years to the player characters age.
+![Alt text](./_docs/FreeTraitsMod.jpg?raw=true "Free Traits Mod")
 - Version history
     - v0.1
-        - Game version: 0.11.0.11 (also tested 0.12.0.4)
+        - Game version: 0.11.0.11  (also tested 0.12.0.6)
 ### Starter Ship Plus Mod 
 - Changes the starting selection of ships to high-tier ships, with no mortgage.
+![Alt text](./_docs/StarterShipPlusMod.jpg?raw=true "Free Traits Mod")
 - Version history
+    - v0.3
+        - Game version: 0.12.0.6
+        - Removed Question ship, and unnecessary images (added in games update).
     - v0.2
-        - Game version: 0.12.0.4
+        - Game version: 0.12.0.4  (also tested 0.12.0.6)
         - Added "bShipOwned" : true, to each ship.
     - v0.1
         - Game version: 0.11.0.11
