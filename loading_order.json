@@ -5,7 +5,6 @@
     "aLoadOrder" : [
       "core",
       "FreeTraitsMod",
-      "AddedLootMod",
       "StarterShipPlusMod"
     ],
     "aIgnorePatterns" : [

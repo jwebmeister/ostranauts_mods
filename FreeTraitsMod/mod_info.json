@@ -3,8 +3,8 @@
     "strName": "Free Traits Mod",
     "strAuthor": "jwebmeister",
     "strModURL": "https://github.com/jwebmeister",
-    "strGameVersion": "0.11.0.11",
-    "strModVersion": "0.1",
+    "strGameVersion": "0.14.0.0",
+    "strModVersion": "0.2",
     "strNotes": "Changes cost of skills and traits so that selection during character creation adds zero years to the player characters age."
   }
 ]
