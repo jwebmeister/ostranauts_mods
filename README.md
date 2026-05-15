@@ -25,6 +25,9 @@ My collection of mods for the game "Ostranauts" by Blue Bottle Games.
 - Changes cost of skills and traits so that selection during character creation adds zero years to the player characters age.
 ![Alt text](./_docs/FreeTraitsMod.jpg?raw=true "Free Traits Mod")
 - Version history
+    - v0.3
+        - Game version: 0.15.0.0
+        - Added new skills. Removed "careers.json" and "ships" folder, no longer needed.
     - v0.2
         - Game version: 0.14.0.0  (public_test beta)
         - Added all the skills in "careers.json", some might not do anything in-game.
@@ -34,6 +37,9 @@ My collection of mods for the game "Ostranauts" by Blue Bottle Games.
 - Changes the starting selection of ships to high-tier ships, with no mortgage.
 ![Alt text](./_docs/StarterShipPlusMod.jpg?raw=true "Starter Ship Plus Mod")
 - Version history
+    - v0.4
+        - Game version: 0.15.0.0
+        - Removed "ships" folder, no longer needed.
     - v0.3
         - Game version: 0.12.0.6  (also tested 0.14.0.0)
         - Removed Question ship, and unnecessary images (added in games update).
